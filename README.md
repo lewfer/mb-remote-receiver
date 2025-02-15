@@ -1,5 +1,5 @@
 
-> Open this page at [https://lewfer.github.io/tcl-mb-remote/](https://lewfer.github.io/mb-remote-receiver)
+> Open this page at [https://lewfer.github.io/mb-remote-receiver/](https://lewfer.github.io/mb-remote-receiver)
 
 ## Use as Extension
 
