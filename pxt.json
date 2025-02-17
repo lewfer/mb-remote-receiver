@@ -4,8 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "pxt-kitronik-robotics-board": "github:kitronikltd/pxt-kitronik-robotics-board#v0.0.5"
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
@@ -19,7 +18,7 @@
         "branch": "v4.0.9",
         "tag": "v4.0.9",
         "commits": "https://github.com/microsoft/pxt-microbit/commits/6c8222ce4e46b32453a41dc0fe5b41ba75aa2990",
-        "target": "4.0.16",
+        "target": "7.0.57",
         "pxt": "7.0.6",
         "targetId": "microbit"
     },
